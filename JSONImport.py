@@ -5,4 +5,3 @@ def importJSON(path):
     data = json.load(data_file)
   
   return data
-
